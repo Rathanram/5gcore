@@ -1,4 +1,5 @@
 # scripts/check_amf_registration.py
+#rat
 import subprocess, datetime, sys
 
 NAMESPACE = "oai5g"
